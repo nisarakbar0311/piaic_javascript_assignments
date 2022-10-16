@@ -1,0 +1,1 @@
+console.log(`Oprah Winfrey once said, “The biggest adventure you can take is to live the life of your dreams.”`);
